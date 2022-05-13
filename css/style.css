@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(91, 191, 248);
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1{
+    background-color: white;
+    width: 80%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#newTask{
+    height: 30px;
+    width: 80%;
+}
+
+button{
+    height: 35px;
+    background-color: rgb(128, 128, 128);
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+}
